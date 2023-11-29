@@ -1,6 +1,6 @@
 - 👋 Hi, I’m nbse2, a Physics and Electronics Engineering double major who is passionate about condensed matter physics and it's applications in modern technology.
 - 👀 I’m interested in strongly correlated quantum materials, superconductors and magnetic systems  
-- 💞️ I’m looking to collaborate on Julia/Python/MATLAB codes for better processing of Scanning Tunneling Microscopy data/theoretical plots
+- 💞️ I’m looking to collaborate on Julia/Python/MATLAB codes for better processing of Scanning Tunneling Microscopy/Spectroscopy data or/and theoretical plots pertaining to material signatures on the STM
 - 📫 How to reach me: email me on - anshumanv.1807@gmail.com
 
 <!---
